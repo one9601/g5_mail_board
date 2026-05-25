@@ -30,8 +30,8 @@
 
 ### 1. 문의 글 작성
 
-![문의글작성](./readme/user_write1.png)
-![로딩화면](./readme/user_write2.png)
+![문의글작성](./readme/use_write1.png)
+![로딩화면](./readme/use_write2.png)
 글 작성 시 로딩폼 표시 (구글 SMTP 속도문제)
 
 ---
